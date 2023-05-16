@@ -79,4 +79,8 @@ tags
 # Persistent undo
 [._]*.un~
 
+### Nvim ###
+# Plugins
+plugin/
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,vim,lua
