@@ -1,2 +1,3 @@
 # nvim
-Nvim confi
+Nvim configuration
+
